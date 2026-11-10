@@ -21,43 +21,35 @@ It also has an AI chatbot called **Ask AI**. Users can ask questions about their
 
 This is the starting page where users can upload their attendance Excel or CSV file.
 
-![Attendance Dashboard](docs/images/Attendence_dashboard.png)
+![Attendance Dashboard](Docs/Attendence_dashboard.png)
 
 ### 2. School Overview
 
 This page shows the overall school attendance information, including total students, attendance percentage, present records, absent records, and late arrivals.
 
-![School Overview](docs/images/School_overview_dashboard1.png)
+![School Overview](Docs/School_overview_dashboard1.png)
+![School Overview](Docs/SOD2.png)
 
 ### 3. Class Analytics
-
-This page helps compare attendance information across different classes.
-
-![Class Analytics](docs/images/SOD2.png)
 
 ### 4. Student Analytics
 
 This page shows individual student information, attendance percentage, present days, absent days, late arrivals, and attendance history.
 
-![Student Analytics](docs/images/Student_profile_dashboard.png)
+![School Overview](Docs/Student_profile_dashboard.png)
+![School Overview](Docs/SPD2.png)
 
-### 5. Additional Dashboard View
-
-This screenshot shows another view of the attendance analytics dashboard.
-
-![Additional Dashboard View](docs/images/SPD2.png)
-
-### 6. Subject-Wise Analytics
+### 5. Subject-Wise Analytics
 
 This page compares attendance percentages and attendance records across different subjects.
 
-![Subject-Wise Analytics](docs/images/Subject_wise_analytics.png)
+![Subject-Wise Analytics](Docs/Subject_wise_analytics.png)
 
 ### 7. AI Chatbot – Ask AI
 
 Users can ask questions about attendance data using the AI chatbot.
 
-![Ask AI Chatbot](docs/images/AI_Chatbot_QA.png)
+![Ask AI Chatbot](Docs/AI_Chatbot_QA.png)
 
 ---
 
