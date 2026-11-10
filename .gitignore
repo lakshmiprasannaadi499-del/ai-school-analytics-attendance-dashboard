@@ -1,0 +1,54 @@
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploaded Excel and private datasets
+*.xlsx
+*.xls
+*.csv
+
+# User uploaded files
+uploads/
+backend/uploads/
+data/
+sample_data/
+
+# Frontend dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Vite
+frontend/dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
