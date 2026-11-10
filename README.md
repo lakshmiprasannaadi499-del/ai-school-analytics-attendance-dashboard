@@ -13,7 +13,8 @@ The user uploads an Excel or CSV attendance file. The application processes the 
 It also has an AI chatbot called **Ask AI**. Users can ask questions about their uploaded attendance data and get answers.
 ## Project Architecture
 
-![Scholarly Project Architecture](Docs/Scholarly-Architecture.png)
+![Scholarly Project Architecture](Docs/Scholarly Architecture Insights Flow.png)
+
 ## Dashboard Screenshots
 
 ### 1. Attendance Dashboard
