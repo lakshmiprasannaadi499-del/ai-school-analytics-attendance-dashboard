@@ -45,7 +45,7 @@ This page compares attendance percentages and attendance records across differen
 
 ![Subject-Wise Analytics](Docs/Subject_wise_analytics.png)
 
-### 7. AI Chatbot – Ask AI
+### 6. AI Chatbot – Ask AI
 
 Users can ask questions about attendance data using the AI chatbot.
 
