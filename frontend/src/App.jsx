@@ -4,13 +4,13 @@ import Plot from 'react-plotly.js'
 import './styles.css'
 import AIChatbot from './components/AIChatbot.jsx'
 
-const API_HOST =
-  window.location.hostname === 'localhost' ||
-  window.location.hostname === '127.0.0.1'
-    ? 'http://127.0.0.1:8000'
-    : 'http://192.168.0.3:8000';
 
-const API = `${API_HOST}/api`;
+const API =
+  import.meta.env.VITE_API_URL ||
+  (window.location.hostname === 'localhost' ||
+   window.location.hostname === '127.0.0.1'
+    ? 'http://127.0.0.1:8000/api'
+    : 'https://ai-school-analytics-attendance-dashboard.onrender.com/api');
 
 const ALL = '__ALL__'
 const REPEATED_ABSENCE_LIMIT = 3
